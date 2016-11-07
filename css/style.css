@@ -1,0 +1,25 @@
+body {
+    background-color: #000000;
+    margin: 0px;
+    overflow: hidden;
+    font-style: 'Arial';
+}
+
+#info {
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    color: #ffffff;
+    padding: 5px;
+    font-family: Monospace;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+}
+
+a {
+    color: #ffffff;
+}
+button {
+    position: absolute;
+}
