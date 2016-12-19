@@ -3,7 +3,7 @@ Three.js Demo Game - «Hidden Object»
 ====================================================
 
 HTML5 game «Hidden Object» developed with popular JS framework for 3d graphics Three.js. It's a demo game with a goal to show ability of creation such games on Three.js. Application is oriented as for mobile touch devices Aple (ipad, iphone), as for PC and MAC.
-[Demo](http://hiddenobjectthreejs.baev.jsui.nixdev.co/)
+[Demo](https://nixsolutions.github.io/demo-threejs-hiddenobject)
 
 Features
 --------
